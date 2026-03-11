@@ -21,14 +21,15 @@ The objective is to demonstrate practical IT project management skills including
 
 ## Project Structure
 
-it-project-cloud-migration-simulation
+it-project-cloud-migration/
 
-├── README.md
-├── Project_Charter.md
-├── Stakeholder_Analysis.md
-├── Risk_Register.md
-├── Project_Timeline.md
-└── Lessons_Learned.md
+│
+├── README.md                # Overview of the project
+├── Project_Charter.md       # Defines project purpose, scope, and success criteria
+├── Stakeholder_Analysis.md  # Identifies key stakeholders and their roles
+├── Risk_Register.md         # Documents potential project risks and mitigation strategies
+├── Project_Timeline.md      # Outlines project phases and schedule
+└── Lessons_Learned.md       # Captures insights and improvements for future projects
 
 ## Project Management Skills Demonstrated
 
@@ -47,4 +48,5 @@ The project applies structured project management practices aligned with PRINCE2
 ## Author
 
 Edgar Nwaojei
+
 MSc IT Project Management – Teesside University
